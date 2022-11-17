@@ -3,4 +3,4 @@
  Results of the measurement campaigns
  https://operationxb.fr
 
-![image](https://user-images.githubusercontent.com/118449595/202467839-b2ef33d2-0d8c-49b0-ba76-29ad5d6e7f4d.png)
+![image](https://user-images.githubusercontent.com/118449595/202469254-54512cc3-93c0-4546-81bb-020c27203cb6.png)
